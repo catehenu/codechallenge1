@@ -1,4 +1,4 @@
-# phase 1 wk1 friday Toy problems
+# phase 1 wk1 Friday Toy problems
 ## Week 1 Toy Problems This repository contains solutions for Week 1 toy problems, implemented in JavaScript.
 
 # Challenge 1: Student Grade Generator
@@ -13,4 +13,4 @@
 ### Description: Write a program to calculate an individual’s Net Salary by getting inputs of basic salary and benefits. Calculate tax, NHIF Deductions, NSSF Deductions, gross salary, and net salary.
 
 ## Author
-### catherine
+### Catherine
